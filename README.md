@@ -1,0 +1,2 @@
+# Zonex-Token
+Zonex Token
